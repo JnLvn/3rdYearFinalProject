@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 14eac83524138044aafcc95f360cf5be
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hazard: {fileID: 144050, guid: c289ee7826b71f04c824f7a43519268e, type: 2}
+  - scoreText: {instanceID: 0}
+  - mover: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
